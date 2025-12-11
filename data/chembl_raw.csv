@@ -149,6 +149,156 @@ COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1OC,Dopamine D2 receptor,227.0
 COc1ccccc1N1CCN(C/C=C/CNC(=O)c2ccc3c(c2)Cc2ccccc2-3)CC1,Dopamine D2 receptor,179.0
 COc1ccccc1N1CCN(C/C=C/CNC(=O)c2ccc(-c3ccccn3)cc2)CC1,Dopamine D2 receptor,175.0
 O=C(NC/C=C/CN1CCN(c2cccc(Cl)c2Cl)CC1)c1ccc(-c2cccc[n+]2[O-])cc1,Dopamine D2 receptor,22.9
+Cc1cccnc1-c1ccc(C(=O)NC/C=C/CN2CCN(c3cccc(Cl)c3Cl)CC2)cc1,Dopamine D2 receptor,368.0
+O=C(NC/C=C/CN1CCN(c2cccc(Cl)c2Cl)CC1)c1ccc(-c2cccc(=O)[nH]2)cc1,Dopamine D2 receptor,41.0
+COc1ccccc1N1CCN(CCCCNC(=O)c2ccc(-c3ccccn3)cc2)CC1,Dopamine D2 receptor,107.0
+COc1ccccc1N1CCN(CCCCNC(=O)c2ccc3c(c2)Cc2ccccc2-3)CC1,Dopamine D2 receptor,224.0
+O=C(NC/C=C/CN1CCN(c2cccc(Cl)c2Cl)CC1)c1ccc(-c2ccccn2)cc1,Dopamine D2 receptor,80.9
+O=C(NC[C@H]1C[C@@H]1CN1CCN(c2cccc(Cl)c2Cl)CC1)c1ccc(-c2ccccn2)cc1,Dopamine D2 receptor,672.0
+O=C(NCC(O)CCN1CCN(c2cccc(Cl)c2Cl)CC1)c1ccc(-c2ccccn2)cc1,Dopamine D2 receptor,88.3
+CC(=O)c1cccc(NC(=O)N[C@@H]2CCCC[C@H]2CN2CCC[C@@H](Cc3ccc(F)cc3)C2)c1,Dopamine D2 receptor,1000.0
+CC(=O)c1sc(NC(=O)N[C@@H]2CN(C(C)=O)CC[C@H]2CN2CCC[C@@H](Cc3ccc(F)cc3)C2)nc1C,Dopamine D2 receptor,640.0
+Fc1ccc(-c2cncc(CNC[C@H]3CCc4ccccc4O3)c2)cc1,Dopamine D2 receptor,6.0
+c1ccc(CCCN2CCN(Cc3ccccc3)CC2)cc1,Dopamine D2 receptor,100.0
+CCOc1ccccc1N1CCN(CCCC(=O)NCc2nc3ccc(F)cc3c(=O)n2-c2ccccc2)CC1,Dopamine D2 receptor,1000.0
+CCOc1ccccc1N1CCN(CCCC(=O)NCc2nc3ccc(F)cc3c(=O)n2-c2ccc(OC)cc2)CC1,Dopamine D2 receptor,140.0
+C=CCN1CCC[C@H]1CNC(=O)c1cc(CCCF)cc(OC)c1OC,Dopamine D2 receptor,5.0
+C=CCN1CCC[C@H]1CNC(=O)c1cc(CCCCl)cc(OC)c1OC,Dopamine D2 receptor,17.1
+Cc1cccc(N2CCN(CCCCNC(=O)c3cc4ccccc4o3)CC2)c1,Dopamine D2 receptor,584.0
+O=C(Nc1ccc2[nH]cc(C3CCN(CCCCCCCN4CCC(c5c[nH]c6ccc(NC(=O)c7ccc(F)cc7)cc56)CC4)CC3)c2c1)c1ccc(F)cc1,Dopamine D2 receptor,700.0
+O[C@]1(c2ccc(Cl)cc2)C[C@H]2CC[C@@H](C1)N2Cc1c[nH]c2ccccc12,Dopamine D2 receptor,48.3
+OC1(c2ccc(Cl)cc2)CCN(Cc2c[nH]c3ccccc23)CC1,Dopamine D2 receptor,4.46
+O[C@@]1(c2ccc(Cl)cc2)C[C@H]2CC[C@@H](C1)N2Cc1coc2ccccc12,Dopamine D2 receptor,1.92
+O[C@@]1(c2ccc(Cl)cc2)C[C@H]2CC[C@@H](C1)N2Cc1csc2ccccc12,Dopamine D2 receptor,26.2
+O[C@@]1(c2ccc(Cl)c(Cl)c2)C[C@H]2CC[C@@H](C1)N2Cc1c[nH]c2ccccc12,Dopamine D2 receptor,210.0
+CC(C)(C)[C@@]1(O)CCN2C[C@@H]3c4ccccc4CCc4cccc(c43)[C@H]2C1,Dopamine D2 receptor,8.7
+COCCN(CCOC)c1nc(C)nc2c(-c3ccc(OC)cc3C)c(C)nn12,Dopamine D2 receptor,1000.0
+CCC(CC)Nc1nc(C)nc2c(-c3cc(F)c(OC)cc3Cl)c(C)nn12,Dopamine D2 receptor,1000.0
+COCCN(CCOC)c1nc(C)nc2c(-c3cc(C)c(OC)cc3C)c(C)nn12,Dopamine D2 receptor,1000.0
+CC[C@@H](C)Nc1nc(C)nc2c(-c3c(C)cc(OC)cc3OC)c(C)nn12,Dopamine D2 receptor,1000.0
+CC(C)(C)[C@@]1(O)CCN2C[C@@H]3c4ccccc4CCc4cccc(c43)[C@H]2C1,Dopamine D2 receptor,15.0
+Cc1cc2c(cc1C(F)(F)F)N(C(=O)Nc1ccc(Oc3cccnc3C)nc1)CC2,Dopamine D2 receptor,1000.0
+COc1ccccc1N1CCN(CCCc2cn(CCCN3CCc4cc(O)c(O)cc4C(c4ccccc4C)C3)nn2)CC1,Dopamine D2 receptor,480.0
+CCN1CCC[C@H]1CNC(=O)c1c(Cl)c(Cl)cc(O)c1OC,Dopamine D2 receptor,32.36
+CCN1CCC[C@H]1CNC(=O)c1c(Cl)c(OC)cc(O)c1OC,Dopamine D2 receptor,70.79
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(Br)c1Br,Dopamine D2 receptor,7.943
+CCc1ccc(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1Br,Dopamine D2 receptor,10.96
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(I)c1OC,Dopamine D2 receptor,0.6761
+CCCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1C,Dopamine D2 receptor,5.012
+CCCc1c(Cl)cc(O)c(OC)c1C(=O)NC[C@@H]1CCCN1CC,Dopamine D2 receptor,109.65
+CCc1ccc(O)c(OC)c1C(=O)NC[C@@H]1CCCN1CC,Dopamine D2 receptor,123.03
+CCN1CCC[C@H]1CNC(=O)c1c(OC)c(O)cc(I)c1OC,Dopamine D2 receptor,0.2884
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(SC)c1OC,Dopamine D2 receptor,1.096
+CCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1OC,Dopamine D2 receptor,1.288
+CCCCc1ccc(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1OC,Dopamine D2 receptor,2.692
+CCCc1ccc(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1,Dopamine D2 receptor,67.61
+CCN1CCC[C@H]1CNC(=O)c1cc(Cl)ccc1OC,Dopamine D2 receptor,257.04
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(Cl)c1Cl,Dopamine D2 receptor,19.95
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(Cl)c1Br,Dopamine D2 receptor,5.623
+CCN1CCC[C@H]1CNC(=O)c1cc(Br)ccc1OC,Dopamine D2 receptor,45.71
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(Br)c1OC,Dopamine D2 receptor,1.202
+CCc1ccc(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1Cl,Dopamine D2 receptor,4.169
+CCN1CCC[C@H]1CNC(=O)c1c(Cl)ccc(O)c1OC,Dopamine D2 receptor,64.57
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(O)c1OC,Dopamine D2 receptor,8.71
+CCN1CCC[C@H]1CNC(=O)c1cc(F)cc(O)c1OC,Dopamine D2 receptor,363.08
+CCN1CCC[C@H]1CNC(=O)c1cc(Cl)cc(O)c1OC,Dopamine D2 receptor,38.9
+CCN1CCC[C@H]1CNC(=O)c1c(Br)c(Cl)cc(O)c1OC,Dopamine D2 receptor,57.54
+CCc1c(Cl)cc(O)c(OC)c1C(=O)NC[C@@H]1CCCN1CC,Dopamine D2 receptor,12.02
+CCN1CCC[C@H]1CNC(=O)c1cc(Br)cc(O)c1OC,Dopamine D2 receptor,8.318
+CCN1CCC[C@H]1CNC(=O)c1c(Cl)c(Br)cc(O)c1OC,Dopamine D2 receptor,16.98
+CCN1CCC[C@H]1CNC(=O)c1c(Br)c(Br)cc(O)c1OC,Dopamine D2 receptor,25.7
+CCN1CCC[C@H]1CNC(=O)c1c(OC)c(O)cc(Br)c1OC,Dopamine D2 receptor,1.413
+CCN1CCC[C@H]1CNC(=O)c1c(OC)c(O)cc(Br)c1[N+](=O)[O-],Dopamine D2 receptor,186.21
+CCN1CCC[C@H]1CNC(=O)c1cc(I)cc(O)c1OC,Dopamine D2 receptor,3.02
+CCN1CCC[C@H]1CNC(=O)c1c(Cl)c(C)cc(O)c1OC,Dopamine D2 receptor,25.7
+CCN1CCC[C@H]1CNC(=O)c1c(C)c(C)cc(O)c1OC,Dopamine D2 receptor,7.762
+CCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1,Dopamine D2 receptor,2.884
+CCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1F,Dopamine D2 receptor,1.514
+CCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1Cl,Dopamine D2 receptor,0.912
+CCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1Br,Dopamine D2 receptor,2.291
+CCCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1,Dopamine D2 receptor,0.5012
+CCN1CCC[C@H]1CNC(=O)c1cc(OC)cc(O)c1OC,Dopamine D2 receptor,204.17
+CCN1CCC[C@H]1CNC(=O)c1c(Br)c(OC)cc(O)c1OC,Dopamine D2 receptor,67.61
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(Br)c1O,Dopamine D2 receptor,10.0
+CCCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1Cl,Dopamine D2 receptor,3.236
+CCN1CCC[C@H]1CNC(=O)c1c(Br)c(C)cc(O)c1OC,Dopamine D2 receptor,5.495
+CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(C)c1OC,Dopamine D2 receptor,5.248
+CCc1c(Br)cc(O)c(OC)c1C(=O)NC[C@@H]1CCCN1CC,Dopamine D2 receptor,16.98
+CCc1cc(O)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1CC,Dopamine D2 receptor,1.778
+CCc1ccc(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1OC,Dopamine D2 receptor,1.288
+CCN1CCC[C@H]1CNC(=O)c1c(OC)cccc1OC,Dopamine D2 receptor,52.48
+CCc1ccc(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1,Dopamine D2 receptor,39.81
+CCN1CCC[C@H]1CNC(=O)c1cccc(O)c1OC,Dopamine D2 receptor,316.23
+CCN1CCC[C@H]1CNC(=O)c1c(Br)ccc(O)c1OC,Dopamine D2 receptor,56.23
+CCN1CCC[C@H]1CNC(=O)c1c(C)c(Cl)cc(O)c1OC,Dopamine D2 receptor,10.96
+CCN1CCC[C@H]1CNC(=O)c1c(OC)c(O)cc(Cl)c1OC,Dopamine D2 receptor,1.698
+CCN1CCC[C@H]1CNC(=O)c1c(F)c(Br)cc(O)c1OC,Dopamine D2 receptor,7.079
+CCN1CCC[C@H]1CNC(=O)c1c(C)c(Br)cc(O)c1OC,Dopamine D2 receptor,10.96
+CCN1CCC[C@H]1CNC(=O)c1cc(C)cc(O)c1OC,Dopamine D2 receptor,19.05
+CCCc1c(C)cc(O)c(OC)c1C(=O)NC[C@@H]1CCCN1CC,Dopamine D2 receptor,141.25
+Nn1c(CCCCN2CCN(c3ccc4ccccc4n3)CC2)nc2c(c1=O)CCCC2,Dopamine D2 receptor,100.0
+Nn1c(CCCCN2CCN(c3ccc4ccccc4n3)CC2)nc2c(c1=O)CCCC2,Dopamine D2 receptor,1000.0
+CC1CC(=O)c2ccc(N3CCN(C)CC3)cc2N1S(=O)(=O)c1ccc2ccccc2c1,Dopamine D2 receptor,136.0
+CCC1CC(=O)c2c(N3CCN(C)CC3)cccc2N1S(=O)(=O)c1ccc2ccccc2c1,Dopamine D2 receptor,1000.0
+CC(C)(C)[C@@]1(O)CCN2C[C@@H]3c4ccccc4CCc4cccc(c43)[C@H]2C1,Dopamine D2 receptor,12.0
+COc1ccccc1N1CCN(CC(F)CCNC(=O)c2cc3ccccc3s2)CC1,Dopamine D2 receptor,421.0
+CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC,Dopamine D2 receptor,10.28
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCOCCOCCc3cccc4ccccc34)c2s1,Dopamine D2 receptor,1000.0
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCOCCOCCc3ccccc3)c2s1,Dopamine D2 receptor,794.33
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCOCCc3cccc4ccccc34)c2s1,Dopamine D2 receptor,199.53
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCCOCCc3ccccc3)c2s1,Dopamine D2 receptor,630.96
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCOCCc3ccccc3)c2s1,Dopamine D2 receptor,1000.0
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCSCCCOCCc3ccccc3)c2s1,Dopamine D2 receptor,1000.0
+O=S(=O)(CCCOCCc1ccccc1)CCNCCc1ccc(O)c2nc(O)sc12,Dopamine D2 receptor,100.0
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCSCCCNCCc3cccc(C(F)(F)F)c3)c2s1,Dopamine D2 receptor,501.19
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCSCCCNCCc3cccc(Cl)c3)c2s1,Dopamine D2 receptor,794.33
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCSCCCNCCc3cccc(Cl)c3Cl)c2s1,Dopamine D2 receptor,398.11
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCS(=O)(=O)CCCNCCc3cccc(Cl)c3)c2s1,Dopamine D2 receptor,794.33
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCNCCc3ccccc3Cl)c2s1,Dopamine D2 receptor,1000.0
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCNCCc3cccc(Cl)c3Cl)c2s1,Dopamine D2 receptor,1000.0
+Cc1nc(C(=O)NCCN2CCN(c3cccc(Cl)c3Cl)CC2)c(C)n1-c1ccccc1.Cl.Cl.Cl.Cl,Dopamine D2 receptor,908.0
+O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1,Dopamine D2 receptor,323.0
+CC(C)C[C@H]1C(=O)N2CCC[C@H]2[C@]2(O)O[C@](NC(=O)[C@@H]3C=C4c5cccc6[nH]c(Br)c(c56)C[C@H]4N(C)C3)(C(C)C)C(=O)N12,Dopamine D2 receptor,1.582
+Clc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1O2,Dopamine D2 receptor,200.0
+CC(C)C[C@H]1C(=O)N2CCC[C@H]2[C@]2(O)O[C@](NC(=O)[C@@H]3C=C4c5cccc6[nH]cc(c56)C[C@H]4N(C)C3)(C(C)C)C(=O)N12,Dopamine D2 receptor,1.95
+CC(C)[C@H]1C(=O)N2CCC[C@H]2[C@]2(O)O[C@](NC(=O)[C@@H]3C=C4c5cccc6[nH]cc(c56)C[C@H]4N(C)C3)(C(C)C)C(=O)N12,Dopamine D2 receptor,5.032
+Fc1ccc(C(c2ccc(F)cc2)N2CCN(C/C=C/c3ccccc3)CC2)cc1,Dopamine D2 receptor,352.0
+C[C@@H](CO)NC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,Dopamine D2 receptor,552.0
+OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,Dopamine D2 receptor,1.616
+CN1C[C@H](C(=O)N[C@]2(C)O[C@@]3(O)[C@@H]4CCCN4C(=O)[C@H](Cc4ccccc4)N3C2=O)C=C2c3cccc4[nH]cc(c34)C[C@H]21,Dopamine D2 receptor,4.3
+O=C(CCCN1CC=C(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1,Dopamine D2 receptor,2.407
+O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1,Dopamine D2 receptor,6.592
+CN1CCC[C@@H]1CCO[C@](C)(c1ccccc1)c1ccc(Cl)cc1,Dopamine D2 receptor,136.0
+COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1OC,Dopamine D2 receptor,473.0
+CC(C)[C@@]1(NC(=O)[C@@H]2C[C@@H]3c4cccc5[nH]cc(c45)C[C@H]3N(C)C2)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](Cc3ccccc3)N2C1=O.CS(=O)(=O)O,Dopamine D2 receptor,1.474
+CN1C[C@H](C(=O)N[C@]2(C)O[C@@]3(O)[C@@H]4CCCN4C(=O)[C@H](Cc4ccccc4)N3C2=O)C[C@@H]2c3cccc4[nH]cc(c34)C[C@H]21,Dopamine D2 receptor,8.88
+C(=C/c1ccccc1)\CN1CCN(C(c2ccccc2)c2ccccc2)CC1,Dopamine D2 receptor,776.0
+CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1,Dopamine D2 receptor,387.0
+CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,Dopamine D2 receptor,54.0
+CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,Dopamine D2 receptor,413.0
+CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1,Dopamine D2 receptor,164.0
+O=c1[nH]c2ccccc2n1CCCN1CCC(n2c(=O)[nH]c3cc(Cl)ccc32)CC1,Dopamine D2 receptor,2.647
+COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,Dopamine D2 receptor,146.0
+CN(C)CCCN1c2ccccc2Sc2ccccc21,Dopamine D2 receptor,505.0
+CC(CN1c2ccccc2Sc2ccccc21)N(C)C,Dopamine D2 receptor,779.0
+CCCN1C[C@H](CSC)C[C@@H]2c3cccc4[nH]cc(c34)C[C@H]21,Dopamine D2 receptor,111.0
+NC(=O)C1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,Dopamine D2 receptor,4.05
+Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1,Dopamine D2 receptor,118.0
+CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,Dopamine D2 receptor,11.0
+CC[C@@H](CO)NC(=O)[C@@H]1C=C2c3cccc4c3c(cn4C)C[C@H]2N(C)C1,Dopamine D2 receptor,807.0
+CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC,Dopamine D2 receptor,127.0
+CN1C[C@H](CNC(=O)OCc2ccccc2)C[C@@H]2c3cccc4c3c(cn4C)C[C@H]21,Dopamine D2 receptor,63.0
+CC[C@H](C)[C@@H](CO[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCS(C)(=O)=O)C(=O)OC(C)C)NC[C@@H](N)CS,Dopamine D2 receptor,157.0
+CCN(CC)C(=O)N[C@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,Dopamine D2 receptor,2.86
+CO[C@@H]1[C@@H](OC)[C@H](C)[C@@](O)(CC(=O)O)O[C@H]1[C@H](C)[C@H]1O[C@@]2(CC[C@@](C)([C@H]3CC[C@@](C)([C@@H]4O[C@@H]([C@H]5O[C@](C)(O)[C@H](C)C[C@@H]5C)C[C@@H]4O[C@@H]4C[C@H](OC)[C@@H](OC)[C@H](C)O4)O3)O2)C[C@H](O)[C@H]1C,Dopamine D2 receptor,702.0
+CC[C@@H](CO)NC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,Dopamine D2 receptor,829.0
+CCN1CCC[C@H]1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC,Dopamine D2 receptor,128.0
+CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2,Dopamine D2 receptor,35.0
+Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2,Dopamine D2 receptor,20.0
+CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC,Dopamine D2 receptor,205.0
+CC(=O)N[C@@H]1CC2(CCN(Cc3ccc4[nH]c5ccc(Cl)cc5c4c3)CC2)c2ccccc21,Dopamine D2 receptor,500.0
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3cccc(CNCCc4c(Cl)cccc4Cl)c3)c2s1,Dopamine D2 receptor,251.19
+O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3ccc(CNCCc4c(Cl)cccc4Cl)cc3)c2s1,Dopamine D2 receptor,1000.0
 CCCN(CCC)C1CCc2cccc(O)c2C1,Serotonin 1a (5-HT1a) receptor,1.1
 O=C1c2ccccc2C(=O)N1CCOCCN1CCN(c2nsc3ccccc23)CC1,Serotonin 1a (5-HT1a) receptor,54.0
 O=C1c2ccccc2C(=O)N1CCCCCCN1CCN(c2nsc3ccccc23)CC1,Serotonin 1a (5-HT1a) receptor,0.76
@@ -299,6 +449,156 @@ COc1ccccc1N1CCN(CCN(C)C2CCCc3c(OC)cccc32)CC1,Serotonin 1a (5-HT1a) receptor,8.7
 COc1ccccc1N1CCN(CCCC2CCCc3c(OC)cccc32)CC1,Serotonin 1a (5-HT1a) receptor,0.77
 CCCN(CCC)C1CCc2cccc(O)c2C1,Serotonin 1a (5-HT1a) receptor,2.1
 COc1ccccc1N1CCN(CCCCC2CCCc3c(OC)cccc32)CC1,Serotonin 1a (5-HT1a) receptor,1.73
+CCN(CC)C(=O)N[C@H]1C[C@@H]2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,Serotonin 1a (5-HT1a) receptor,25.0
+COc1cccc2c1CCCC2CCCN1CCN(c2ccccn2)CC1,Serotonin 1a (5-HT1a) receptor,0.54
+COc1ccccc1N1CCN(CCN(C)C(=O)C2CCCc3c(OC)cccc32)CC1,Serotonin 1a (5-HT1a) receptor,307.0
+COc1cccc2c1CCCC2NC(=O)CCN1CCN(c2ccccn2)CC1,Serotonin 1a (5-HT1a) receptor,135.0
+COc1cccc2c1CCCC2NCCCN1CCN(c2ccccc2)CC1,Serotonin 1a (5-HT1a) receptor,53.0
+COc1ccccc1N1CCN(CCCNC2CCCc3c(OC)cccc32)CC1,Serotonin 1a (5-HT1a) receptor,10.0
+COc1ccccc1N1CCN(CCC(=O)NC2CCCc3c(OC)cccc32)CC1,Serotonin 1a (5-HT1a) receptor,38.0
+COc1cccc2c1CCCC2C(=O)NCCN1CCN(c2ccccn2)CC1,Serotonin 1a (5-HT1a) receptor,173.0
+COc1ccccc1N1CCN(CCNC2CCCc3c(OC)cccc32)CC1,Serotonin 1a (5-HT1a) receptor,7.7
+COc1cccc2c1CCCC2C(=O)NCCCN1CCN(c2ccccn2)CC1,Serotonin 1a (5-HT1a) receptor,95.0
+COc1cccc2c1CCCC2CCCN1CCN(c2ccccc2)CC1,Serotonin 1a (5-HT1a) receptor,0.5
+COc1cccc2c1CCCC2NC(=O)CCN1CCN(c2ccccc2)CC1,Serotonin 1a (5-HT1a) receptor,311.0
+COc1ccccc1N1CCN(CCNC(=O)C2CCCc3c(OC)cccc32)CC1,Serotonin 1a (5-HT1a) receptor,35.0
+COc1cccc2c1CCCC2CNCCN1CCN(c2ccccc2)CC1,Serotonin 1a (5-HT1a) receptor,116.0
+CCCN(CCC)C1CCc2cccc(O)c2C1,Serotonin 1a (5-HT1a) receptor,4.46
+COc1ccc(NS(=O)(=O)c2ccc(-c3ccc(-c4nnc(C)o4)cc3C)cc2)cc1N1CCN(C)CC1,Serotonin 1a (5-HT1a) receptor,700.0
+COc1ccccc1N1CCN(CCCN2C(=O)CC3(CCCC3)CC2=O)CC1,Serotonin 1a (5-HT1a) receptor,80.0
+COc1ccccc1N1CCN(CCCCN2C(=O)CC3(CCCC3)CC2=O)CC1,Serotonin 1a (5-HT1a) receptor,2.0
+COc1ccc(NC(=O)c2ccc(-c3ccc(C(N)=O)cc3C)cc2)cc1N1CCN(C)CC1,Serotonin 1a (5-HT1a) receptor,57.0
+Cc1nnc(-c2ccc(-c3ccc(C(=O)Nc4ccc(O)c(N5CCN(C)CC5)c4)cc3)c(C)c2)o1,Serotonin 1a (5-HT1a) receptor,100.0
+COc1ccc(NC(=O)c2ccc(-c3ccc(C(=N)N)cc3C)cc2)cc1N1CCN(C)CC1,Serotonin 1a (5-HT1a) receptor,23.0
+Cc1nc(-c2ccc(-c3ccc(C(=O)N4CCc5cc6c(cc54)C4(CCN(C)CC4)CO6)cc3)c(C)c2)no1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1ccc(NC(=O)c2ccc(-c3ccc(-c4nnc(C)o4)cc3C)cc2)cc1N1CCN(C)CC1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1ccccc1N1CCN(CCN2C(=O)CC3(CCCC3)CC2=O)CC1,Serotonin 1a (5-HT1a) receptor,2.4
+COc1ccc(NC(=O)c2ccc(-c3ccc(-c4noc(C)n4)cc3C)cc2)cc1N1CCN(C)CC1,Serotonin 1a (5-HT1a) receptor,425.0
+Cc1nc(-c2ccc(-c3ccc(C(=O)Nc4ccc(O)c(N5CCN(C)CC5)c4)cc3)c(C)c2)no1,Serotonin 1a (5-HT1a) receptor,1000.0
+CN1CCC[C@@H]1Cc1c[nH]c2ccc(Nc3ncccc3[N+](=O)[O-])cc12,Serotonin 1a (5-HT1a) receptor,33.0
+CN(C)CCc1c[nH]c2ccc(Nc3ncccc3[N+](=O)[O-])cc12,Serotonin 1a (5-HT1a) receptor,73.0
+O=C1CC2(CCCC2)C(O)C(=O)N1CCCCN1CCN(c2nsc3ccccc23)CC1,Serotonin 1a (5-HT1a) receptor,5.06
+COc1ccccc1N(C(=O)C1CCCCC1)C1CCN(CCN(C(=O)C2CCCCC2)c2ccccn2)CC1,Serotonin 1a (5-HT1a) receptor,500.0
+O=C1CC2(CCC(O)C2)CC(=O)N1CCCCN1CCN(c2nsc3ccccc23)CC1,Serotonin 1a (5-HT1a) receptor,3.75
+c1ccc2c(N3CCNCC3)nsc2c1,Serotonin 1a (5-HT1a) receptor,190.0
+O=C(C1CCCCC1)N(CCN1CCN(c2ccccc2OCCCF)CC1)c1ccccn1,Serotonin 1a (5-HT1a) receptor,6.05
+CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1,Serotonin 1a (5-HT1a) receptor,640.0
+NCCc1c[nH]c2ccc(O)cc12,Serotonin 1a (5-HT1a) receptor,5.2
+O=C(C1CCCCC1)N(CCN1CCN(c2ccccc2O)CC1)c1ccccn1,Serotonin 1a (5-HT1a) receptor,2.1
+CN1CCC(c2c[nH]c3ccc(Nc4ncccc4[N+](=O)[O-])cc23)C1,Serotonin 1a (5-HT1a) receptor,320.0
+O=C1CC2(CCCC2)C(C(=O)NCCCCN2CCN(c3nsc4ccccc34)CC2)O1,Serotonin 1a (5-HT1a) receptor,98.7
+COc1ccc2snc(N3CCNCC3)c2c1,Serotonin 1a (5-HT1a) receptor,20.9
+O=C(C1CCCCC1)N(CCN1CCN(c2ccccc2OS(=O)(=O)C(F)(F)F)CC1)c1ccccn1,Serotonin 1a (5-HT1a) receptor,36.0
+O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2nsc3ccccc23)CC1,Serotonin 1a (5-HT1a) receptor,2.85
+O=C1CC2(CCCC2)CC(=O)N1CCC(O)CN1CCN(c2nsc3ccccc23)CC1,Serotonin 1a (5-HT1a) receptor,24.9
+O=[N+]([O-])c1cccnc1Nc1ccc2[nH]cc(C[C@H]3CCCN3)c2c1,Serotonin 1a (5-HT1a) receptor,120.0
+O=C(C1CCCCC1)N(CCN1CCN(c2ccccc2OCCF)CC1)c1ccccn1,Serotonin 1a (5-HT1a) receptor,1.55
+O=C1CCC2(C1)CC(=O)N(CCCCN1CCN(c3nsc4ccccc34)CC1)C(=O)C2,Serotonin 1a (5-HT1a) receptor,2.99
+COc1ccccc1N1CCN(CCN(C(=O)C2CCCCC2)c2ccccn2)CC1,Serotonin 1a (5-HT1a) receptor,0.37
+CS(=O)(=O)Oc1ccccc1N1CCN(CCN(C(=O)C2CCCCC2)c2ccccn2)CC1,Serotonin 1a (5-HT1a) receptor,7.25
+COc1cccc2snc(N3CCNCC3)c12,Serotonin 1a (5-HT1a) receptor,121.0
+O=C1CC2(CCC(O)C2)CC(=O)N1CCC(O)CN1CCN(c2nsc3ccccc23)CC1,Serotonin 1a (5-HT1a) receptor,14.2
+Fc1ccc(OC(CC2CCNCC2)c2ccc(F)cc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+FC(F)(F)c1cccc(OC(CCN2CCN(c3nsc4ccccc34)CC2)c2ccccc2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Clc1ccccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+Cc1c(F)cccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+N#Cc1ccc(OC(c2ccccc2)C2CCNCC2)cc1Cl,Serotonin 1a (5-HT1a) receptor,1000.0
+Oc1ccc(OC(c2ccccc2)C2CCNCC2)cc1F,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccccc1OC(CCN1CCc2ccccc2C1)c1ccccc1,Serotonin 1a (5-HT1a) receptor,1000.0
+FC(F)(F)c1ccccc1OC(CCN1CCc2ccccc2C1)c1ccccc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(C(Oc2ccccc2)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(OC(CC2CCNCC2)c2ccccc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+CN1CCC(C(Oc2ccc(F)cc2)c2ccccc2)CC1,Serotonin 1a (5-HT1a) receptor,1000.0
+O=[N+]([O-])c1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+OC1(c2ccc(Cl)cc2)c2ccccc2C2=NCCN21,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(C(Oc2ccc3c(c2)OCO3)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(OC(c2cccc(F)c2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+CNCC[C@@H](Oc1ccc(C(F)(F)F)cc1)c1ccccc1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1cc2c(cc1OC)CN(CCC(Oc1ccccc1C(F)(F)F)c1ccccc1)CC2,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(C(Oc2ccc(C(F)(F)F)cc2)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1ccc(OC(c2ccc(F)cc2)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+CC(=O)N1CCC(C(Oc2ccccc2)c2ccc(F)cc2)CC1,Serotonin 1a (5-HT1a) receptor,1000.0
+c1ccc(C(Oc2cccc3ccccc23)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Cc1ccc(OC(CCN2CCc3cc(O)c(O)cc3C2)c2ccccc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+FC(F)(F)c1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(OC(c2cccc(F)c2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cc(F)cc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Oc1cc2c(cc1O)CN(CCC(Oc1ccc(Cl)cc1)c1ccccc1)CC2,Serotonin 1a (5-HT1a) receptor,1000.0
+Brc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Clc1ccc(C(Oc2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(OC(c2ccccc2)C2CCOCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Brc1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Clc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+O=C(CCC(Oc1ccc([N+](=O)[O-])cc1)c1ccc(F)cc1)C1CCN(c2ccc(F)cc2)CC1,Serotonin 1a (5-HT1a) receptor,1000.0
+Brc1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1ccc(OC(c2ccc(F)cc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+N#Cc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+O=[N+]([O-])c1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(C(Oc2ccccc2F)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Oc1cc2c(cc1O)CN(CCC(Oc1ccccc1F)c1ccccc1)CC2,Serotonin 1a (5-HT1a) receptor,1000.0
+Nc1ccc(OC(CCC(=O)C2CCN(c3ccc(F)cc3)CC2)c2ccc(F)cc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+N#Cc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(OC(c2ccc(F)cc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+N#Cc1ccc(OC(CC2CCNCC2)c2ccc(F)cc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1ccc(OC(CC2CCNCC2)c2ccccc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+c1ccc(-c2ccc(OC(c3ccccc3)C3CCNCC3)cc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Cc1ccc(C(Oc2cccc(F)c2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1ccc(OC(c2ccc(F)cc2)C2CCN(C(C)=O)CC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+N#Cc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+O=[N+]([O-])c1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+c1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cc(F)cc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(C(Oc2cccc3ccccc23)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Ic1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c(c2)OCO3)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(C(Oc2ccc(Cl)cc2)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Clc1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Oc1cc(F)cc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cc(F)cc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+c1ccc(C(Oc2cccc3ccccc23)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+CN1CCN2c3ncccc3Cc3ccccc3C2C1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(C(Oc2ccc(Cl)c(Cl)c2)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(OC(c2ccc(Cl)cc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+N#Cc1cc(F)cc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Brc1ccc(OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Cc1ccc(OC(CCN2CCc3ccccc3C2)c2ccccc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+FC(F)(F)c1ccccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(C(Oc2ccccc2F)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Cc1c(Cl)cccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+O=C(CCC(Oc1ccc([N+](=O)[O-])cc1)c1ccccc1)C1CCN(c2ccc(F)cc2)CC1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccc(OC(c2ccc(F)cc2)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1cc(F)cc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(OC(c2cccc(F)c2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Cc1ccc(OC(c2ccc(F)cc2)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(OC(c2cccc(F)c2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Clc1ccc(OC(c2ccccc2)C2CCNCC2)cc1Cl,Serotonin 1a (5-HT1a) receptor,1000.0
+Oc1c(F)cccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+c1ccc(C(Oc2cccc3ccccc23)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+CCOc1ccccc1OC(c1ccccc1)C1CNCCO1,Serotonin 1a (5-HT1a) receptor,1000.0
+Oc1cc2c(cc1O)CN(CCC(Oc1ccccc1C(F)(F)F)c1ccccc1)CC2,Serotonin 1a (5-HT1a) receptor,1000.0
+N#Cc1ccc(OC(c2ccc(F)cc2)C2CCCNC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+FC(F)(F)c1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1ccccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1cc2c(cc1OC)CN(CCC(Oc1ccccc1F)c1ccccc1)CC2,Serotonin 1a (5-HT1a) receptor,1000.0
+c1ccc(-c2ccccc2OC(c2ccccc2)C2CCNCC2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+CNCCC(Oc1ccccc1OC)c1ccccc1,Serotonin 1a (5-HT1a) receptor,1000.0
+Clc1ccc(OC(CCN2CCc3ccccc3C2)c2ccccc2)cc1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1cc2c(cc1OC)CN(CCC(Oc1ccc(Cl)cc1)c1ccccc1)CC2,Serotonin 1a (5-HT1a) receptor,1000.0
+N#Cc1ccccc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
+Ic1cccc(OC(c2ccccc2)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(OC(c2ccccc2)C2CCCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+Fc1cccc(C(Oc2ccccc2F)C2CCNCC2)c1,Serotonin 1a (5-HT1a) receptor,1000.0
+COc1cc2c(cc1OC)CN(CCC(Oc1ccc(C)cc1)c1ccccc1)CC2,Serotonin 1a (5-HT1a) receptor,1000.0
+Cc1ccc(Cl)cc1OC(c1ccccc1)C1CCNCC1,Serotonin 1a (5-HT1a) receptor,1000.0
 COc1ccc(-c2cc(C(F)F)nn2-c2ccc(S(C)(=O)=O)cn2)cc1C,Cyclooxygenase-2,170.0
 COc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(C)(=O)=O)cn2)cc1,Cyclooxygenase-2,44.0
 Cc1c(C(F)F)nn(-c2ccc(S(C)(=O)=O)cn2)c1-c1ccccc1,Cyclooxygenase-2,190.0
@@ -424,3 +724,303 @@ Cc1cc(-c2cc(C(F)(F)F)nn2-c2ccc(S(C)(=O)=O)cn2)ccc1-c1ccco1,Cyclooxygenase-2,10.0
 CS(=O)(=O)c1ccc(-n2nc(C(F)(F)F)cc2-c2ccc(-c3ccco3)c(F)c2)nc1,Cyclooxygenase-2,50.0
 CS(=O)(=O)c1ccc(-n2nc(C(F)(F)F)cc2-c2ccc(-c3ccco3)c(C#N)c2)nc1,Cyclooxygenase-2,13.0
 CS(=O)(=O)c1ccc(-n2nc(C(F)(F)F)cc2-c2ccc(-c3ccco3)cc2)nc1,Cyclooxygenase-2,20.0
+CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1,Acetylcholinesterase,750.0
+O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC1CC1,Acetylcholinesterase,100.0
+O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F,Acetylcholinesterase,300.0
+CSc1nc(-c2ccc(OC(F)(F)F)cc2)nn1C(=O)N(C)C,Acetylcholinesterase,800.0
+CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,Acetylcholinesterase,100.0
+COc1ccc(-c2nc(SC)n(C(=O)N(C)C)n2)cc1,Acetylcholinesterase,800.0
+CSc1nc(-c2ccc3ccccc3c2)nn1C(=O)N(C)C,Acetylcholinesterase,50.0
+CSc1nc(-c2ccc(-c3ccccc3)cc2)nn1C(=O)N(C)C,Acetylcholinesterase,560.0
+CSc1nc(/C=C/c2ccccc2)nn1C(=O)N(C)C,Acetylcholinesterase,10.0
+CCCCCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCCCC1,Acetylcholinesterase,10.0
+CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCCCC1,Acetylcholinesterase,26.0
+CSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)C,Acetylcholinesterase,800.0
+CCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,Acetylcholinesterase,56.0
+CCCCCCSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)C,Acetylcholinesterase,200.0
+CCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,Acetylcholinesterase,300.0
+Cc1ccc(-c2nc(SCC(F)(F)F)n(C(=O)N(C)C)n2)cc1,Acetylcholinesterase,200.0
+CSc1nc(-c2ccc(C(F)(F)F)cc2)nn1C(=O)N(C)C,Acetylcholinesterase,500.0
+CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-],Acetylcholinesterase,22.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,Acetylcholinesterase,40.0
+N#CC(C#N)=C1Nc2ccccc2N1CCNCc1ccc(CN2CCCCC2)o1,Acetylcholinesterase,73.0
+CC1CCCCN1Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,Acetylcholinesterase,540.0
+N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCCC2)o1,Acetylcholinesterase,30.0
+CNC(NCCNCc1ccc(CN2CCCCC2)o1)=C(C#N)C#N.Cl,Acetylcholinesterase,830.0
+N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCC(O)CC2)o1,Acetylcholinesterase,390.0
+CN(C)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,Acetylcholinesterase,390.0
+CCN(C)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,Acetylcholinesterase,430.0
+CCN(CC)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1.Cl,Acetylcholinesterase,600.0
+CCCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,290.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCN4CCOCC4)ccc3N(C)[C@@H]12,Acetylcholinesterase,700.0
+CNC(NCCNCc1ccc(CN(C)C)o1)=C(C#N)C#N,Acetylcholinesterase,630.0
+CC1CCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)CC1,Acetylcholinesterase,290.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,Acetylcholinesterase,40.0
+N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCC2)o1,Acetylcholinesterase,80.0
+Cl.N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CC=CCC2)o1,Acetylcholinesterase,95.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,Acetylcholinesterase,60.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,Acetylcholinesterase,70.0
+CNC(NCCNCc1ccc(CN2CCCC2)o1)=C(C#N)C#N,Acetylcholinesterase,280.0
+CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,Acetylcholinesterase,650.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,Acetylcholinesterase,930.0
+CC1CCCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)C1,Acetylcholinesterase,370.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,30.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,Acetylcholinesterase,80.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,Acetylcholinesterase,380.0
+N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCC(O)C2)o1,Acetylcholinesterase,370.0
+Cl.N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCCCC2)o1,Acetylcholinesterase,120.0
+COc1ccccc1CN(C)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(C)Cc1ccccc1OC,Acetylcholinesterase,169.82
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,14.13
+COc1ccccc1CNCCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCNCc1ccccc1OC,Acetylcholinesterase,309.03
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,218.78
+C/C=C1\C2C=C(C(F)(F)F)CC1(N)c1ccc(O)nc1C2,Acetylcholinesterase,400.0
+C/C=C1\[C@H]2C=C(C)C[C@]1(N)c1ccc(=O)[nH]c1C2,Acetylcholinesterase,5.0
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,254.0
+Nc1c2c(nc3ccccc13)-c1ccccc1C2,Acetylcholinesterase,676.0
+COc1cc2cc(C(=O)CC(O)C3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,219.0
+C/N=C1/CCc2c1n(C)c1ccc(OC(=O)NC)c(Cl)c21,Acetylcholinesterase,230.0
+COc1cc2cc(C(=O)CC3=CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,750.0
+COc1cc2cc(C(=O)CCc3cc[n+](Cc4ccccc4)cc3)sc2cc1OC,Acetylcholinesterase,4.6
+COc1cc2cc(C(=O)CCC3CC[N+](C)(CCOc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,390.0
+COc1cc2cc(C(=O)CCc3cc[n+](CC4CCC4)cc3)sc2cc1OC.[Br-],Acetylcholinesterase,40.0
+C/N=C1/CCc2c1n(C)c1cc(Cl)c(OC(=O)NC)cc21,Acetylcholinesterase,670.0
+COc1cc2cc(C(=O)CCCCC3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,110.0
+CC[n+]1ccc(CCC(=O)c2cc3cc(OC)c(OC)cc3s2)cc1.[Br-],Acetylcholinesterase,280.0
+CNC(=O)Oc1ccc2c(c1)c1c(n2C)/C(=N\CCc2ccccc2)CC1,Acetylcholinesterase,160.0
+CCCn1c2c(c3c(Br)c(OC(=O)NC)ccc31)CC/C2=N/CC,Acetylcholinesterase,230.0
+COc1cc2cc(C(=O)CCC3CC[N+](C)(CC#N)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,1000.0
+COCC[N+]1(C)CCC(CCC(=O)c2cc3cc(OC)c(OC)cc3s2)CC1.[Br-],Acetylcholinesterase,53.0
+COC(=O)c1ccc(C[n+]2ccc(CCC(=O)c3cc4cc(OC)c(OC)cc4s3)cc2)cc1,Acetylcholinesterase,1000.0
+COc1cc2cc(C(=O)C=C3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,520.0
+COc1cc2cc(C(=O)CCc3cc[n+](Cc4ccc(F)cc4)cc3)sc2cc1OC,Acetylcholinesterase,2.6
+COc1cc2cc(C(=O)CC(OC)C3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,120.0
+COc1cc2cc(C(=O)CCc3cc[n+](CC4CC4)cc3)sc2cc1OC.[Br-],Acetylcholinesterase,110.0
+COc1cc2cc(C(=O)CC3(O)CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,90.0
+COc1cc2cc(C(=O)CCC3CC[N+](C)(CC4CCCCO4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,28.0
+COc1cc2cc(C(=O)CCc3cc[n+](C)cc3)sc2cc1OC.[Br-],Acetylcholinesterase,900.0
+COCC[n+]1ccc(CCC(=O)c2cc3cc(OC)c(OC)cc3s2)cc1,Acetylcholinesterase,30.0
+COc1cc2cc(C(=O)CC(O)CCC3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,380.0
+COc1cc2cc(C(=O)CCc3cc[n+](Cc4ccsc4)cc3)sc2cc1OC,Acetylcholinesterase,6.0
+CC/N=C1/CCc2c1n(C)c1ccc(OC(=O)NC)c(Br)c21,Acetylcholinesterase,140.0
+C/N=C1/CCc2c1n(C)c1ccc(OC(=O)NC)c(Br)c21,Acetylcholinesterase,180.0
+COC(=O)C[N+]1(C)CCC(CCC(=O)c2cc3cc(OC)c(OC)cc3s2)CC1.[Br-],Acetylcholinesterase,54.0
+COc1cc2cc(C(=O)CC(O)C3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,665.0
+COc1cc2cc(C(=O)CCC3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,8.0
+CC/N=C1/CCc2c1n(C)c1ccc(OC(=O)NC)c(Cl)c21,Acetylcholinesterase,160.0
+CCCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,9.0
+C=CC[n+]1ccc(CCC(=O)c2cc3cc(OC)c(OC)cc3s2)cc1.[Br-],Acetylcholinesterase,540.0
+CCOCC[n+]1ccc(CCC(=O)c2cc3cc(OC)c(OC)cc3s2)cc1,Acetylcholinesterase,7.0
+COc1cc2cc(C(=O)CC(O)C3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,43.0
+C/N=C1/CCc2c1n(C)c1ccc(OC(=O)N(C)C)c(Br)c21,Acetylcholinesterase,60.0
+COc1cc2cc(C(=O)CC(O)C3CC[N+](C)(Cc4ccccc4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,190.0
+COc1cc2cc(C(=O)CCc3cc[n+](Cc4ccc([N+](=O)[O-])o4)cc3)sc2cc1OC.[Br-],Acetylcholinesterase,4.5
+COc1cc2cc(C(=O)CCC3CC[N+](C)(Cc4ccc([N+](=O)[O-])o4)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,32.0
+COc1cc2cc(C(=O)CCC3CC[N+](C)(CC(=O)OC(C)(C)C)CC3)sc2cc1OC.[Br-],Acetylcholinesterase,79.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCNC1N2,Acetylcholinesterase,10.9
+C[C@@]12CCNC1Nc1ccc(OC(=O)Nc3ccccc3)cc12,Acetylcholinesterase,22.1
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2Cc1ccccc1,Acetylcholinesterase,161.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,27.9
+Nc1c2c(nc3ccccc13)C1CCC2C1,Acetylcholinesterase,31.5
+CN1c2ccc(OC(=O)Nc3ccccc3)cc2[C@]2(C)CCNC12,Acetylcholinesterase,13.8
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3NC12,Acetylcholinesterase,40.8
+Nc1c2c(nc3c(Cl)cccc13)CCCC2,Acetylcholinesterase,68.9
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,61.0
+COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,Acetylcholinesterase,2.33
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCNC1N2C,Acetylcholinesterase,21.0
+Nc1c2c(nc3cccc(Cl)c13)CCCC2,Acetylcholinesterase,9.4
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(Cc3ccccc3)C1N2C,Acetylcholinesterase,330.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2,Acetylcholinesterase,56.7
+Nc1c2c(nc3ccccc13)CCCC2O,Acetylcholinesterase,164.0
+Nc1c2c(nc3cc(Cl)ccc13)C1CCC2C1,Acetylcholinesterase,4.5
+Nc1c2c(nc3cc(Cl)ccc13)CCCC2,Acetylcholinesterase,1.8
+Nc1c2c(nc3c(Cl)cccc13)C1CCC2C1,Acetylcholinesterase,84.3
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)C12,Acetylcholinesterase,24.0
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,33.5
+C[C@]12CCNC1Nc1ccc(OC(=O)Nc3ccccc3)cc12,Acetylcholinesterase,231.0
+Nc1c2c(nc3cccc(Cl)c13)C1CCC2C1,Acetylcholinesterase,42.2
+Nc1c2c(nc3ccc(Cl)cc13)CCCC2,Acetylcholinesterase,743.0
+Cl.Cl.O.c1ccc(CN2CCC(CCOc3ccc(-c4ccccc4)nn3)CC2)cc1,Acetylcholinesterase,710.0
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,143.0
+Nc1c2c(nc3cccc(Cl)c13)CCCC2,Acetylcholinesterase,39.0
+Nc1c2c(nc3c1CCCO3)CCCC2,Acetylcholinesterase,455.0
+COc1cccc2nc3c(c(N)c12)CCCC3,Acetylcholinesterase,615.0
+Cl.Cl.c1ccc(CN2CCC(CCNc3ccc(-c4ccccc4)nn3)CC2)cc1,Acetylcholinesterase,140.0
+Cl.Cl.O.c1ccc(CN2CCC(CCNc3cc4c(nn3)-c3ccccc3CCC4)CC2)cc1,Acetylcholinesterase,120.0
+Nc1c2c(nc3cccc(F)c13)OCCC2,Acetylcholinesterase,335.0
+Nc1c2c(nc3cnccc13)OCCC2,Acetylcholinesterase,42.0
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,95.0
+Cl.Cl.O.c1ccc(CN2CCC(CCNc3cc4ccc5ccccc5c4nn3)CC2)cc1,Acetylcholinesterase,190.0
+Nc1c2c(nc3c1CCCC3)CCCC2,Acetylcholinesterase,360.0
+Cc1cccc2nc3c(c(N)c12)CCCC3,Acetylcholinesterase,99.0
+Cl.O.c1ccc(CN2CCC(CCN=c3cc4c(n[nH]3)-c3ccccc3C4)CC2)cc1,Acetylcholinesterase,74.0
+Nc1c2c(nc3cccc(F)c13)CCCC2,Acetylcholinesterase,78.0
+Nc1c2c(nc3ncccc13)CCCC2,Acetylcholinesterase,429.0
+Nc1c2c(nc3c1CCC3)CCCC2,Acetylcholinesterase,658.0
+Cl.Cl.c1ccc(CN2CCC(CCSc3ccc(-c4ccccc4)nn3)CC2)cc1,Acetylcholinesterase,470.0
+COc1cccc2nc3c(c(N)c12)CCCO3,Acetylcholinesterase,606.0
+Nc1c2c(nc3ccccc13)OCCC2,Acetylcholinesterase,266.0
+Cc1cc(=NCCC2CCN(Cc3ccccc3)CC2)[nH]nc1-c1ccccc1.Cl.Cl.O,Acetylcholinesterase,39.0
+CCc1cc(=NCCC2CCN(Cc3ccccc3)CC2)[nH]nc1-c1ccccc1.Cl.Cl.O,Acetylcholinesterase,66.0
+Cl.Cl.O.c1ccc(CN2CCC(CCNc3cc4c(nn3)-c3ccccc3CC4)CC2)cc1,Acetylcholinesterase,190.0
+COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,Acetylcholinesterase,16.0
+Nc1c2c(nc3cccc(Cl)c13)OCCC2,Acetylcholinesterase,313.0
+Cc1cccc2nc3c(c(N)c12)CCCO3,Acetylcholinesterase,150.0
+CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-],Acetylcholinesterase,2.0
+C=CC[N+](C)(C)c1cccc(OC(C)=O)c1.[Br-],Acetylcholinesterase,1000.0
+COc1ccc(C(=O)COc2cccc([N+](C)(C)Cc3ccccc3)c2)cc1OC.[Br-],Acetylcholinesterase,330.0
+C=CC[N+](C)(C)c1ccccc1OC.[Br-],Acetylcholinesterase,1000.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN[C@@H]1N2C,Acetylcholinesterase,23.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN[C@@H]1N2C,Acetylcholinesterase,21.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,31.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,35.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CCc3ccccc3)[C@@H]1N2C,Acetylcholinesterase,150.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CCc3ccccc3)[C@@H]1N2C,Acetylcholinesterase,220.0
+COc1ccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)cc1,Acetylcholinesterase,230.0
+COc1ccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)cc1,Acetylcholinesterase,350.0
+CCCCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,15.0
+CCCCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,16.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(Cc3ccccc3)[C@@H]1N2C,Acetylcholinesterase,190.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(Cc3ccccc3)[C@@H]1N2C,Acetylcholinesterase,330.0
+C=CCN1CC[C@@]2(C)c3cc(OC(=O)NC)ccc3N(C)[C@@H]12,Acetylcholinesterase,32.0
+C=CCN1CC[C@@]2(C)c3cc(OC(=O)NC)ccc3N(C)[C@@H]12,Acetylcholinesterase,45.0
+CN(C)C(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,310.0
+CN(C)C(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,210.0
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)[C@@H]12,Acetylcholinesterase,36.0
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)[C@@H]12,Acetylcholinesterase,21.0
+CN1CCC(CCCC2Cc3ccccc3C2=O)CC1,Acetylcholinesterase,1.5
+CN1CCN(CC2Cc3ccccc3C2=O)CC1,Acetylcholinesterase,94.0
+COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,Acetylcholinesterase,40.0
+CC1CCN(Cc2cccc3ccccc23)CC1,Acetylcholinesterase,220.0
+CN1CCC(C[C@@H]2Cc3ccccc3C2=O)CC1,Acetylcholinesterase,5.3
+CN1CCC(CC/C=C2\Cc3ccccc3C2=O)CC1,Acetylcholinesterase,0.82
+CC1CCN(Cc2ccccc2)CC1,Acetylcholinesterase,5.3
+CN1CCC(/C=C/C=C2\Cc3ccccc3C2=O)CC1,Acetylcholinesterase,3.0
+CC1CCN(Cc2ccccc2[N+](=O)[O-])CC1,Acetylcholinesterase,160.0
+Cc1ccccc1CN1CCC(C)CC1,Acetylcholinesterase,10.0
+CC1CCN(CC2CCCCC2)CC1,Acetylcholinesterase,8.9
+CC1CCN(CC2Cc3ccccc3C2=O)CC1,Acetylcholinesterase,480.0
+CC1CCN(CCc2ccccc2)CC1,Acetylcholinesterase,180.0
+CN1CCC(C[C@H]2Cc3ccccc3C2=O)CC1,Acetylcholinesterase,7.7
+CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-],Acetylcholinesterase,600.0
+CN1CCC(CCN2C(=O)c3ccccc3C2=O)CC1,Acetylcholinesterase,0.9
+CN1CCC(CCC2C(=O)Nc3ccccc3C2=O)CC1,Acetylcholinesterase,4.2
+CN1CCC(/C=C2\Cc3ccccc3C2=O)CC1,Acetylcholinesterase,8.4
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,180.0
+c1ccc(CN2CCC(CCc3nccc4ccccc34)CC2)cc1,Acetylcholinesterase,219.79
+CN(CCCCCNc1ccc(-c2ccccc2)nn1)Cc1ccccc1.Cl,Acetylcholinesterase,930.0
+Cc1ccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)cc1,Acetylcholinesterase,140.0
+c1ccc(CN2CCC(CCc3noc4cc(N5CCOCC5)ccc34)CC2)cc1,Acetylcholinesterase,0.7998
+c1ccc(CN2CCC(CNc3noc4ccccc34)CC2)cc1,Acetylcholinesterase,319.89
+CC(C)c1ccccc1NC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,15.0
+Cc1cccc(C)c1NC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,785.0
+Brc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,Acetylcholinesterase,50.0
+O=C(Nc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1)c1ccccc1,Acetylcholinesterase,9.397
+Nc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,Acetylcholinesterase,20.0
+c1ccc(CN2CCC(CCc3noc4ccccc34)CC2)cc1,Acetylcholinesterase,54.95
+CCc1ccccc1NC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,10.0
+O=S(=O)(Nc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1)c1ccccc1,Acetylcholinesterase,14.0
+COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,Acetylcholinesterase,16.0
+Cc1cc(C)cc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)c1,Acetylcholinesterase,78.0
+C(=C/C1CCN(Cc2ccccc2)CC1)\c1noc2ccccc12,Acetylcholinesterase,209.89
+c1ccc(CN2CCC(CCc3ncnc4ccccc34)CC2)cc1,Acetylcholinesterase,340.41
+COc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,Acetylcholinesterase,8.299
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,18.97
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,28.0
+NC(=O)c1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,Acetylcholinesterase,8.79
+COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,Acetylcholinesterase,7.998
+Cc1cccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)c1,Acetylcholinesterase,28.0
+Cc1cccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)c1C,Acetylcholinesterase,23.0
+CN(C(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C)c1ccccc1,Acetylcholinesterase,690.0
+COc1cccc2c(CCC3CCN(Cc4ccccc4)CC3)noc12,Acetylcholinesterase,7.096
+Cc1ccc(C)c(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)c1,Acetylcholinesterase,26.0
+COc1ccc2onc(CCC3CCN(Cc4ccccc4)CC3)c2c1,Acetylcholinesterase,7.194
+Oc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,Acetylcholinesterase,26.0
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,269.77
+Cc1ccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)c(C)c1,Acetylcholinesterase,14.0
+c1ccc(CN2CCC(CCc3n[nH]c4ccccc34)CC2)cc1,Acetylcholinesterase,119.95
+Cc1ccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)cc1C,Acetylcholinesterase,31.0
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)[C@@H]12,Acetylcholinesterase,22.0
+Cc1cc2c(cc1OC(=O)Nc1ccccc1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,260.0
+Cc1ccc2onc(CCC3CCN(Cc4ccccc4)CC3)c2c1,Acetylcholinesterase,7.798
+CC(C)c1ccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)cc1,Acetylcholinesterase,760.0
+c1ccc(CN2CCC(CCc3nsc4ccccc34)CC2)cc1,Acetylcholinesterase,97.72
+Cc1ccccc1NC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,10.0
+CN(C)C(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,210.0
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,95.0
+N#Cc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,Acetylcholinesterase,100.93
+CC(=O)Nc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,Acetylcholinesterase,2.799
+Cc1cc2onc(CCC3CCN(Cc4ccccc4)CC3)c2cc1C,Acetylcholinesterase,5.794
+Cl.Cl.c1ccc(CN2CCC(CCNc3ccc(-c4ccccc4)nn3)CC2)cc1,Acetylcholinesterase,140.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,128.0
+CCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CC)[C@@H]1C2,Acetylcholinesterase,20.0
+CCCCCCNC(=O)Oc1ccc2c(c1)[C@@]1(C)CCN(CC)[C@H]1C2,Acetylcholinesterase,233.0
+CCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2C,Acetylcholinesterase,152.0
+CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-],Acetylcholinesterase,91.0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCc4ccccc4)ccc3N(C)C12,Acetylcholinesterase,460.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CC[N+](C)(C)C1N2C.COS(=O)(=O)[O-],Acetylcholinesterase,34.0
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,76.0
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)C12,Acetylcholinesterase,350.0
+CN(C)C(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2C,Acetylcholinesterase,970.0
+CC[N+](C)(C)c1cccc(O)c1.[Br-],Acetylcholinesterase,780.0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,57.0
+CCCCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2C,Acetylcholinesterase,110.0
+C=CC[N+](C)(C)c1ccc(CCC(=O)CCc2ccc([N+](C)(C)CC=C)cc2)cc1,Acetylcholinesterase,8.0
+CNC(=O)Oc1cccc(CN(C)CCCCCCCCCOc2ccc3c(=O)c4ccccc4oc3c2)c1.Cl,Acetylcholinesterase,11.7
+CNC(=O)Oc1ccc2c(c1)CN(CCCOc1ccc3c(=O)c4ccccc4oc3c1)CC2.Cl,Acetylcholinesterase,12.4
+CN(CCCOc1ccc2c(=O)c3ccccc3oc2c1)Cc1cccc(OC(=O)NCCCCCCCCN2CCOCC2)c1,Acetylcholinesterase,27.4
+CNC(=O)Oc1cccc(CN(C)CCCOc2ccc3c(=O)c4ccccc4oc3c2)c1,Acetylcholinesterase,0.3
+CNC(=O)Oc1cccc(CN(C)CCCOc2ccc(C(=O)c3ccccc3)cc2)c1.Cl,Acetylcholinesterase,5.4
+CNC(=O)Oc1cccc(CN(C)CCCCCCOc2ccc3c(=O)c4ccccc4oc3c2)c1,Acetylcholinesterase,1.4
+CNC(=O)Oc1cccc(CN(C)CCCOc2ccc3ccccc3c2)c1.Cl,Acetylcholinesterase,82.6
+CN(CCCOc1ccc2c(=O)c3ccccc3oc2c1)Cc1cccc(OC(=O)NCCCCCCCCCN2CCOCC2)c1,Acetylcholinesterase,29.3
+CNC(=O)Oc1cccc(CN(C)CCCCCCCCOc2ccc3c(=O)c4ccccc4oc3c2)c1.Cl,Acetylcholinesterase,6.8
+CN(CCCOc1ccc2c(=O)c3ccccc3oc2c1)Cc1cccc(OC(=O)NCCCCCCN2CCOCC2)c1,Acetylcholinesterase,21.1
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,14.1
+CNC(=O)Oc1cccc(CN(C)CCCOc2cccc(Cc3ccccc3)c2)c1.Cl,Acetylcholinesterase,24.7
+CNC(=O)Oc1cccc(CN(C)CCCCCCCOc2ccc3c(=O)c4ccccc4oc3c2)c1.Cl,Acetylcholinesterase,0.32
+CNC(=O)Oc1cccc(CN(C)CCCOc2ccc(-c3ccccc3)cc2)c1,Acetylcholinesterase,54.6
+CN(CCCOc1ccc2c(=O)c3ccccc3oc2c1)Cc1cccc(OC(=O)NCCCCCCCN2CCOCC2)c1,Acetylcholinesterase,26.2
+CNC(=O)Oc1cccc(CN(C)CCCOc2ccccc2)c1.Cl,Acetylcholinesterase,79.6
+CNC(=O)Oc1cccc(CN(C)CC#CCOc2ccc3c(=O)c4ccccc4oc3c2)c1.Cl,Acetylcholinesterase,210.0
+CNC(=O)Oc1cccc(CN(C)CCCCCCCCCCOc2ccc3c(=O)c4ccccc4oc3c2)c1.Cl,Acetylcholinesterase,21.8
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3NC12,Acetylcholinesterase,40.8
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2C=O,Acetylcholinesterase,387.5
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1C)Cc1ccccc1C,Acetylcholinesterase,56.23
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1Cl)Cc1ccccc1Cl,Acetylcholinesterase,19.5
+CC[N+](C)(CCCCCC(=O)N(CCCCCCCCN(C(=O)CCCCC[N+](C)(CC)Cc1ccccc1OC)C(C)C)C(C)C)Cc1ccccc1OC,Acetylcholinesterase,8.128
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(Cc3ccccc3)C12,Acetylcholinesterase,245.3
+CCN(CCCCCC(=O)N(CCCCCCCCN(C(=O)CCCCCN(CC)Cc1ccccc1OC)C(C)C)C(C)C)Cc1ccccc1OC,Acetylcholinesterase,18.2
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1[N+](=O)[O-])Cc1ccccc1[N+](=O)[O-].[I-].[I-],Acetylcholinesterase,12.3
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1[N+](=O)[O-])Cc1ccccc1[N+](=O)[O-].[I-].[I-],Acetylcholinesterase,12.59
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1[N+](=O)[O-])Cc1ccccc1[N+](=O)[O-].[I-].[I-],Acetylcholinesterase,12.88
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1[N+](=O)[O-])Cc1ccccc1[N+](=O)[O-].[I-].[I-],Acetylcholinesterase,12.3
+COc1ccccc1CN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(Cc1ccccc1OC)C(C)C)C(C)C,Acetylcholinesterase,72.44
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,17.78
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2Cc1ccccc1,Acetylcholinesterase,160.8
+COc1cccc(CN(C)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(C)Cc2cccc(OC)c2)c1,Acetylcholinesterase,676.08
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1C(F)(F)F)Cc1ccccc1C(F)(F)F,Acetylcholinesterase,11.75
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1[N+](=O)[O-])Cc1ccccc1[N+](=O)[O-],Acetylcholinesterase,794.33
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1[N+](=O)[O-])Cc1ccccc1[N+](=O)[O-],Acetylcholinesterase,32.36
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1[N+](=O)[O-])Cc1ccccc1[N+](=O)[O-],Acetylcholinesterase,79.43
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1[N+](=O)[O-])Cc1ccccc1[N+](=O)[O-],Acetylcholinesterase,794.33
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,Acetylcholinesterase,27.9
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1)Cc1ccccc1,Acetylcholinesterase,37.15
+CCCOc1ccccc1C[N+](C)(CC)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1OCCC,Acetylcholinesterase,17.38
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1C)Cc1ccccc1C,Acetylcholinesterase,16.6
+Nc1c2c(nc3ccccc13)CCCC2,Acetylcholinesterase,251.19
+CCCOc1ccccc1CN(CC)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1OCCC,Acetylcholinesterase,33.88
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C=O)C12,Acetylcholinesterase,780.4
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,18.62
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,16.22
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,17.38
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,18.62
+CCN(CCCCCCOCCCCCCCCOCCCCCCN(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,204.17
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)C12,Acetylcholinesterase,24.0
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1)Cc1ccccc1,Acetylcholinesterase,48.98
+CCN(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(CC)Cc1ccccc1Cl)Cc1ccccc1Cl,Acetylcholinesterase,112.2
+CC[N+](C)(CCCCCCOCCCCCCCCOCCCCCC[N+](C)(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,77.62
+COc1ccccc1CN(C)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(C)Cc1ccccc1OC,Acetylcholinesterase,169.82
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,12.02
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,10.96
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,10.96
+CC[N+](C)(CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCC[N+](C)(CC)Cc1ccccc1OC)Cc1ccccc1OC,Acetylcholinesterase,12.02

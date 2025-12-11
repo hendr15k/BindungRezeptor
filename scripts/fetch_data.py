@@ -10,7 +10,7 @@ def fetch_chembl_data():
     # Let's search for a popular target family like "Dopamine receptor"
     # To have a good demo, I will pick 3 distinct targets to classify.
 
-    target_names = ["Dopamine D2 receptor", "Serotonin 1a (5-HT1a) receptor", "Cyclooxygenase-2"]
+    target_names = ["Dopamine D2 receptor", "Serotonin 1a (5-HT1a) receptor", "Cyclooxygenase-2", "Acetylcholinesterase"]
 
     all_data = []
 
@@ -37,10 +37,10 @@ def fetch_chembl_data():
                                   standard_type="IC50",
                                   standard_value__isnull=False).filter(standard_value__lte=1000)
 
-        # Limit to 150 compounds per target to keep things fast and model small
+        # Limit to 300 compounds per target to keep things fast and model small
         count = 0
         for act in res_act:
-            if count >= 150:
+            if count >= 300:
                 break
             if 'canonical_smiles' in act and act['canonical_smiles']:
                 all_data.append({
