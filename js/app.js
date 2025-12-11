@@ -13,6 +13,7 @@ async function predictTargets() {
     const img = document.getElementById('mol-image');
     const tbody = document.getElementById('results-body');
     const note = document.querySelector('.simulation-note');
+    const propsContainer = document.getElementById('properties-container');
 
     if (!smiles) {
         alert("Bitte geben Sie einen gültigen SMILES-String ein.");
@@ -22,6 +23,7 @@ async function predictTargets() {
     // Reset display
     resultDiv.style.display = 'none';
     tbody.innerHTML = '<tr><td colspan="2">Lade Daten und berechne...</td></tr>';
+    if(propsContainer) propsContainer.innerHTML = '';
     resultDiv.style.display = 'block';
 
     // Fetch Image
@@ -42,6 +44,15 @@ async function predictTargets() {
         const data = await response.json();
         const props = data.PropertyTable.Properties[0];
 
+        // Display properties
+        if(propsContainer) {
+            propsContainer.innerHTML = `
+                <strong>Moleküleigenschaften:</strong><br>
+                MW: ${props.MolecularWeight} | LogP: ${props.XLogP || 'N/A'} | TPSA: ${props.TPSA}<br>
+                H-Donatoren: ${props.HBondDonorCount} | H-Akzeptoren: ${props.HBondAcceptorCount} | Rot. Bindungen: ${props.RotatableBondCount}
+            `;
+        }
+
         // Map to feature vector [mw, logp, tpsa, hbd, hba, rot_bonds]
         // Note: XLogP is used as approximation for RDKit MolLogP
         const features = [
@@ -58,7 +69,7 @@ async function predictTargets() {
         if (typeof predictWithModel === 'function') {
             const predictions = predictWithModel(features);
             displayResults(predictions, tbody);
-            note.innerHTML = "(Hinweis: Vorhersage basiert auf einem Random Forest Modell trainiert mit ChEMBL Daten.)";
+            note.innerHTML = "(Hinweis: Vorhersage basiert auf einem im Browser ausgeführten Random Forest Modell.)";
         } else {
             throw new Error("Model definition not found");
         }
