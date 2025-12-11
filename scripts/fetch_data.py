@@ -10,7 +10,7 @@ def fetch_chembl_data():
     # Let's search for a popular target family like "Dopamine receptor"
     # To have a good demo, I will pick 3 distinct targets to classify.
 
-    target_names = ["Dopamine D2 receptor", "Serotonin 1a (5-HT1a) receptor", "Cyclooxygenase-2", "Acetylcholinesterase"]
+    target_names = ["Dopamine D2 receptor", "Serotonin 1a (5-HT1a) receptor", "Cyclooxygenase-2", "Acetylcholinesterase", "Cannabinoid CB1 receptor"]
 
     all_data = []
 
