@@ -4,124 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bindungsaffinität & Zielvorhersage</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f0f2f5;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-            padding: 20px;
-            box-sizing: border-box;
-        }
-        .container {
-            background-color: #ffffff;
-            padding: 2rem;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            width: 100%;
-            max-width: 800px;
-            text-align: center;
-        }
-        h1 {
-            color: #333;
-            margin-bottom: 1rem;
-        }
-        p {
-            color: #666;
-            margin-bottom: 2rem;
-        }
-        .input-group {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin-bottom: 1rem;
-            flex-wrap: wrap;
-        }
-        input[type="text"] {
-            flex: 1;
-            padding: 12px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            font-size: 16px;
-            min-width: 200px;
-            max-width: 400px;
-        }
-        button {
-            background-color: #007bff;
-            color: white;
-            border: none;
-            padding: 12px 24px;
-            font-size: 16px;
-            border-radius: 4px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        button:hover {
-            background-color: #0056b3;
-        }
-        #result {
-            margin-top: 2rem;
-            text-align: left;
-            display: none;
-        }
-        .mol-image-container {
-            text-align: center;
-            margin-bottom: 20px;
-            padding: 10px;
-            background: #fff;
-            border: 1px solid #eee;
-            border-radius: 4px;
-            display: inline-block;
-        }
-        #mol-image {
-            max-width: 100%;
-            height: auto;
-            min-height: 150px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 10px;
-        }
-        th, td {
-            padding: 12px;
-            border-bottom: 1px solid #ddd;
-            text-align: left;
-        }
-        th {
-            background-color: #f8f9fa;
-            font-weight: 600;
-        }
-        .probability-bar-container {
-            width: 100px;
-            height: 10px;
-            background-color: #e9ecef;
-            border-radius: 5px;
-            overflow: hidden;
-            display: inline-block;
-            vertical-align: middle;
-            margin-right: 10px;
-        }
-        .probability-bar {
-            height: 100%;
-            background-color: #28a745;
-        }
-        .error {
-            color: #dc3545;
-            text-align: center;
-        }
-        .simulation-note {
-            font-size: 0.8em;
-            color: #888;
-            margin-top: 20px;
-            text-align: center;
-            border-top: 1px solid #eee;
-            padding-top: 10px;
-        }
-    </style>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -154,85 +37,13 @@
         </table>
 
         <div class="simulation-note">
-            (Hinweis: Dies ist eine Simulation. Die angezeigten Zielproteine sind Beispiele und basieren nicht auf einer echten Berechnung.)
+            (Hinweis: Dies ist eine Simulation, solange kein Modell geladen ist.)
         </div>
     </div>
 </div>
 
-<script>
-    const potentialTargets = [
-        "Cyclooxygenase-1 (COX-1)",
-        "Cyclooxygenase-2 (COX-2)",
-        "Dopamin-Rezeptor D2",
-        "Serotonin-Rezeptor 5-HT1A",
-        "Acetylcholinesterase",
-        "Angiotensin-Konversionsenzym (ACE)",
-        "Beta-2 Adrenerger Rezeptor",
-        "Muscarinischer Acetylcholinrezeptor M3",
-        "Histamin-H1-Rezeptor",
-        "Cannabinoid-Rezeptor 1",
-        "Estrogen-Rezeptor Alpha",
-        "Glucocorticoid-Rezeptor",
-        "P2Y Purinozeptor 12"
-    ];
-
-    function predictTargets() {
-        const smiles = document.getElementById('smilesInput').value.trim();
-        const resultDiv = document.getElementById('result');
-        const img = document.getElementById('mol-image');
-        const tbody = document.getElementById('results-body');
-
-        if (!smiles) {
-            alert("Bitte geben Sie einen gültigen SMILES-String ein.");
-            return;
-        }
-
-        // Reset display
-        resultDiv.style.display = 'none';
-
-        // Fetch Image
-        const imageUrl = `https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/${encodeURIComponent(smiles)}/PNG?record_type=2d&image_size=300x300`;
-        img.onerror = function() {
-            this.src = 'https://via.placeholder.com/300x300?text=Struktur+nicht+verfügbar';
-        };
-        img.src = imageUrl;
-
-        // Generate Mock Data
-        const numTargets = Math.floor(Math.random() * 4) + 5;
-        const shuffled = potentialTargets.slice().sort(() => 0.5 - Math.random());
-        const selectedTargets = shuffled.slice(0, numTargets);
-
-        // Assign probabilities
-        let results = selectedTargets.map(target => {
-            return {
-                name: target,
-                probability: Math.random()
-            };
-        });
-
-        // Sort by probability desc
-        results.sort((a, b) => b.probability - a.probability);
-
-        // Build Table
-        tbody.innerHTML = '';
-        results.forEach(res => {
-            const probPercent = (res.probability * 100).toFixed(1);
-            const row = document.createElement('tr');
-            row.innerHTML = `
-                <td>${res.name}</td>
-                <td>
-                    <div class="probability-bar-container">
-                        <div class="probability-bar" style="width: ${probPercent}%"></div>
-                    </div>
-                    ${probPercent}%
-                </td>
-            `;
-            tbody.appendChild(row);
-        });
-
-        resultDiv.style.display = 'block';
-    }
-</script>
+<script src="js/model.js"></script> <!-- Placeholder for the generated model -->
+<script src="js/app.js"></script>
 
 </body>
 </html>
