@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bindungsaffinität Vorhersage</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 1.5rem;
+        }
+        p {
+            color: #666;
+            margin-bottom: 2rem;
+        }
+        input[type="text"] {
+            width: 80%;
+            padding: 12px;
+            margin-bottom: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #result {
+            margin-top: 2rem;
+            padding: 1rem;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            display: none;
+        }
+        .error {
+            color: #dc3545;
+        }
+        .success {
+            color: #28a745;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Bindungsaffinität Vorhersage</h1>
+    <p>Geben Sie einen SMILES-String ein, um die Bindungsaffinität vorherzusagen.</p>
+
+    <input type="text" id="smilesInput" placeholder="z.B. CC(=O)OC1=CC=CC=C1C(=O)O">
+    <br>
+    <button onclick="predictAffinity()">Vorhersagen</button>
+
+    <div id="result"></div>
+</div>
+
+<script>
+    function predictAffinity() {
+        const smiles = document.getElementById('smilesInput').value.trim();
+        const resultDiv = document.getElementById('result');
+
+        if (!smiles) {
+            resultDiv.style.display = 'block';
+            resultDiv.innerHTML = '<span class="error">Bitte geben Sie einen gültigen SMILES-String ein.</span>';
+            return;
+        }
+
+        // Simulaion der Vorhersage (Hier würde normalerweise ein API-Aufruf oder ein ML-Modell stehen)
+        resultDiv.style.display = 'block';
+        resultDiv.innerHTML = 'Berechne...';
+
+        setTimeout(() => {
+            // Mock-Ergebnis generieren
+            const mockAffinity = -(Math.random() * (12 - 5) + 5).toFixed(2);
+
+            resultDiv.innerHTML = `
+                <div><strong>SMILES:</strong> ${smiles}</div>
+                <div style="margin-top: 10px;">
+                    Vorhergesagte Bindungsaffinität: <span class="success">${mockAffinity} kcal/mol</span>
+                </div>
+                <div style="font-size: 0.8em; color: #888; margin-top: 5px;">(Dies ist eine Simulation)</div>
+            `;
+        }, 1000);
+    }
+</script>
+
+</body>
+</html>
