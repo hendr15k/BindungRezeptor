@@ -10,7 +10,7 @@ def fetch_chembl_data():
     # Let's search for a popular target family like "Dopamine receptor"
     # To have a good demo, I will pick 3 distinct targets to classify.
 
-    target_names = ["Dopamine D2 receptor", "Serotonin 1a (5-HT1a) receptor", "Cyclooxygenase-2", "Acetylcholinesterase", "Cannabinoid CB1 receptor"]
+    target_names = ["Dopamine D2 receptor", "Serotonin 1a (5-HT1a) receptor", "Cyclooxygenase-2", "Acetylcholinesterase", "Cannabinoid CB1 receptor", "Histamine H1 receptor", "Mu opioid receptor"]
 
     all_data = []
 
@@ -60,4 +60,8 @@ def fetch_chembl_data():
     return df
 
 if __name__ == "__main__":
-    fetch_chembl_data()
+    try:
+        fetch_chembl_data()
+    except Exception as e:
+        print(f"An error occurred while fetching data: {e}")
+        print("Keeping existing data if available.")
